@@ -1,5 +1,5 @@
-{
-   "name":"ChottaChetanTalkies",
+ {
+    "name":"ChottaChetanTalkies",
    "description":"Index Tv Channels enjoy ",
    "logo":"https://i.imgur.com/bdgegfef.png",
    "keywords":[
@@ -8,16 +8,16 @@
       "Channels",
       "enjoy"
    ],
-   "repository":"https://github.com/qweuyt/asdfgjk",
-   "website":"https://github.com/qweuyt/asdfgjk",
-   "success_url":"https://github.com/qweuyt/asdfgjk",
+   "repository":"https://github.com/midnightmadwalk/ChottaChetanTalkies",
+   "website":"https://github.com/midnightmadwalk/ChottaChetanTalkies",
+   "success_url":"https://github.com/midnightmadwalk/ChottaChetanTalkies",
    "buildpacks":[
       {
          "url":"heroku/php"
       }
    ],
    "formation":{
-      "web":{
+      "worker":{
          "quantity":1,
          "size":"free"
       }
